@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niroop.B
 - 👀 I’m interested in software devlopment and AI automation domain
 - 🌱 I’m currently learning Python and java
-- 💞️ I’m currently pursuing my Masters in Computer Applications(final year), I am open for jobs and internships
-- 📫 How to reach me gmail: niroopbasavaraju@gmail.com, LinkedIn: linkedin.com/in/niroop-b-a56758169
+- 💞️ Recent Masters of Computer Applications Grdauate, I am open for jobs and internships
+- 📫 How to reach me gmail: niroopbasavaraju@gmail.com, LinkedIn: https://www.linkedin.com/in/niroopb/
